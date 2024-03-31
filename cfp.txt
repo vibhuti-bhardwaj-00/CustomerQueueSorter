@@ -1,0 +1,49 @@
+Course Title: Computer Fundamentals and Programming
+
+Instructor: [Instructor's Name]
+
+Course Description:
+This course introduces fundamental concepts in computer science and programming. It covers essential topics such as computer architecture, programming languages, algorithms, and problem-solving techniques.
+
+Course Objectives:
+
+Understand the basic components of a computer system and their functions.
+Learn programming fundamentals using a high-level language such as C++.
+Develop problem-solving skills through algorithmic thinking and program design.
+Gain hands-on experience with programming assignments and projects.
+Course Outline:
+
+Introduction to Computers and Programming
+Overview of computer hardware and software
+Introduction to programming languages and their types
+Basics of software development process
+Programming Fundamentals
+Variables, data types, and expressions
+Control structures: decision-making and looping
+Functions and modular programming
+Arrays and strings
+Algorithms and Problem Solving
+Understanding algorithms and pseudocode
+Problem-solving strategies: step-by-step approach
+Algorithm analysis and complexity
+Introduction to Object-Oriented Programming (OOP)
+Principles of OOP: encapsulation, inheritance, polymorphism
+Classes and objects in C++
+Basic OOP concepts: constructors, destructors, inheritance
+Recommended Resources:
+
+Textbook: "Introduction to Programming with C++" by Y. Daniel Liang
+Online tutorials and coding platforms:
+Codecademy (https://www.codecademy.com/)
+GeeksforGeeks (https://www.geeksforgeeks.org/)
+LeetCode (https://leetcode.com/)
+Additional readings and reference materials provided by the instructor
+Assignments and Projects:
+
+Weekly programming assignments to reinforce concepts learned in class.
+Programming projects to apply knowledge and demonstrate proficiency in programming.
+Code reviews and feedback sessions to improve coding skills.
+Evaluation:
+
+Grading criteria for assignments, projects, quizzes, and exams.
+Assessment based on understanding of concepts, problem-solving ability, and code quality.

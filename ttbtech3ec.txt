@@ -1,0 +1,18 @@
+____________________________________________________________________________________________________
+|        Day         |      9:00 - 10:00      |     10:00 - 11:00     |    11:00 - 12:00     |    12:00 - 1:00    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|
+| Monday             | Communication Systems  | Control Systems       | Electromagnetic Waves| Lunch              |
+|                    |                        | (Lecture)             | (Lecture)            |                    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|
+| Tuesday            | Microelectronics       | Digital Signal        | Digital              | Lunch              |
+|                    | (Lecture)              | Processing (Lecture)  | Communication Systems|                    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|
+| Wednesday          | Control Systems        | Electromagnetic Waves | Microelectronics     | Lunch              |
+|                    | (Lab)                  | (Lab)                 | (Lab)                |                    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|
+| Thursday           | Digital Signal         | Communication Systems | Control Systems      | Lunch              |
+|                    | Processing (Lab)       | (Lab)                 | (Lab)                |                    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|
+| Friday             | Electromagnetic Waves  | Microelectronics      | Digital Signal       | Lunch              |
+|                    | (Tutorial)             | (Tutorial)            | Processing (Tutorial)|                    |
+|--------------------|------------------------|-----------------------|----------------------|--------------------|

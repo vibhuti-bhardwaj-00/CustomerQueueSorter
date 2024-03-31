@@ -1,0 +1,34 @@
+John F1001 ComputerScience
+Timetable:
+9:00-10:00 CS101 Monday
+10:00-11:00 CS201 Tuesday
+#
+
+JaneSmith F1002 MechanicalEngineering
+Timetable:
+9:00-10:00 ME101 Monday
+10:00-11:00 ME201 Tuesday
+#
+
+AliceJohnson F1003 ElectricalEngineering
+Timetable:
+9:00-10:00 EE101 Monday
+10:00-11:00 EE201 Tuesday
+#
+
+RobertBrown F1004 CivilEngineering
+Timetable:
+9:00-10:00 CE101 Monday
+10:00-11:00 CE201 Tuesday
+#
+
+EmilyLee F1005 ChemicalEngineering
+Timetable:
+9:00-10:00 CHE101 Monday
+10:00-11:00 CHE201 Tuesday
+#
+
+uhbuh 1212 ygvy
+Timetable:
+ygvy
+#

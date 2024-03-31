@@ -1,0 +1,74 @@
+Course Title:Communication Systems 
+
+Introduction to Communication Systems
+
+Definition of Communication Systems
+Importance and Applications
+Components of Communication Systems
+
+Transmitter
+Function and Components
+Modulation Techniques
+Types of Modulation (AM, FM, PM)
+Channel
+Types of Channels (Guided and Unguided)
+Noise in Communication Channels
+Channel Capacity and Bandwidth
+Receiver
+Function and Components
+Demodulation Techniques
+Types of Receivers (Superheterodyne, Direct Conversion)
+Noise
+Sources of Noise
+Noise Figure and Signal-to-Noise Ratio (SNR)
+Noise Reduction Techniques
+Antennas
+Types of Antennas
+Antenna Gain and Radiation Pattern
+Antenna Diversity Techniques
+Modulation Techniques
+
+Amplitude Modulation (AM)
+Principle of AM
+Types of AM (Double Sideband, Single Sideband)
+Advantages and Disadvantages
+Frequency Modulation (FM)
+Principle of FM
+Narrowband FM vs. Wideband FM
+Advantages and Disadvantages
+Phase Modulation (PM)
+Principle of PM
+Types of PM (Binary Phase Shift Keying, Quadrature Phase Shift Keying)
+Advantages and Disadvantages
+Multiplexing Techniques
+
+Frequency Division Multiplexing (FDM)
+Principle of FDM
+Application in Telephone Systems
+Advantages and Disadvantages
+Time Division Multiplexing (TDM)
+Principle of TDM
+Application in Digital Communication Systems
+Advantages and Disadvantages
+Code Division Multiplexing (CDM)
+Principle of CDM
+Spread Spectrum Techniques
+Advantages and Disadvantages
+Digital Communication
+
+Digital Modulation Techniques
+Phase Shift Keying (PSK)
+Frequency Shift Keying (FSK)
+Amplitude Shift Keying (ASK)
+Error Detection and Correction
+Parity Check
+CRC (Cyclic Redundancy Check)
+Hamming Code
+Data Compression
+Lossless Compression
+Lossy Compression
+Application in Digital Audio and Video
+Conclusion
+
+Summary of Key Concepts
+Future Trends in Communication Systems

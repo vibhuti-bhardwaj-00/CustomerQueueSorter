@@ -1,0 +1,66 @@
+Compiler Design Handout
+
+Introduction to Compiler Design
+
+What is a Compiler?
+Phases of Compilation
+Lexical Analysis
+Syntax Analysis (Parsing)
+Semantic Analysis
+Intermediate Code Generation
+Code Optimization
+Code Generation
+Symbol Table Management
+Compiler Construction Tools
+Lexical Analysis
+
+Role of Lexical Analyzer
+Regular Expressions
+Finite Automata
+Lexical Analyzer Generator Tools (e.g., Lex)
+Syntax Analysis
+
+Role of Parser
+Context-Free Grammars
+Top-Down Parsing
+Recursive Descent Parsing
+LL Parsing
+Bottom-Up Parsing
+Shift-Reduce Parsing
+LR Parsing
+Parser Generator Tools (e.g., Yacc/Bison)
+Semantic Analysis
+
+Role of Semantic Analyzer
+Type Checking
+Semantic Errors Detection
+Symbol Table Management
+Intermediate Code Generation
+
+Role of Intermediate Code
+Intermediate Representations (e.g., Abstract Syntax Trees)
+Three-Address Code
+Quadruples and Triples
+Code Optimization
+
+Role of Code Optimizer
+Optimization Techniques
+Constant Folding
+Common Subexpression Elimination
+Loop Optimization
+Dead Code Elimination
+Code Generation
+
+Role of Code Generator
+Target Machine Model
+Instruction Selection
+Register Allocation
+Compiler Tools
+
+Lex and Yacc/Bison
+GCC (GNU Compiler Collection)
+LLVM (Low Level Virtual Machine)
+Conclusion
+
+Importance of Compiler Design
+Future Trends and Developments

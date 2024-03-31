@@ -1,0 +1,26 @@
+-------------------------------------------------------------------
+|            | Monday            | Tuesday           | Wednesday  |
+-------------------------------------------------------------------
+| 09:00-10:00| Design & Analysis | System Programming| Basic      |
+|            | of Algorithms     |                   | Electronics|
+-------------------------------------------------------------------
+| 10:00-11:00| Object Oriented   |                   | Complex    |
+|            | Programming       |                   | Variable   | 
+-------------------------------------------------------------------
+| 11:00-12:00| Design & Analysis | Object Oriented   | Basic      |
+|            | of Algorithms     | Programming       | Electronics|
+-------------------------------------------------------------------
+| 12:00-13:00| Lunch Break       | Lunch Break       | Lunch Break|
+-------------------------------------------------------------------
+| 13:00-14:00| Software          | System Programming| Complex    |
+|            | Engineering       |                   | Variable   |
+-------------------------------------------------------------------
+| 14:00-15:00| Object Oriented   |                   | Basic      |
+|            | Programming       |                   | Electronics|
+-------------------------------------------------------------------
+| 15:00-16:00| Software          | Object Oriented   | System     |
+|            | Engineering       | Programming       | Programming|
+-------------------------------------------------------------------
+| 16:00-17:00| Design & Analysis |                   | Complex    |
+|            | of Algorithms     |                   | Variable   |
+-------------------------------------------------------------------

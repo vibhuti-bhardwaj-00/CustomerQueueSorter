@@ -1,0 +1,46 @@
+Course Title: Theory of Computation
+
+1. Introduction
+
+Definition and scope of the theory of computation
+Importance and relevance in computer science
+Historical background and key contributors
+2. Basic Concepts
+
+Formal languages and grammars
+Finite automata and regular expressions
+Context-free grammars and pushdown automata
+Turing machines and computability
+3. Models of Computation
+
+Deterministic and non-deterministic finite automata (DFA, NFA)
+Regular expressions and regular languages
+Context-free grammars and context-free languages
+Turing machines and recursively enumerable languages
+4. Complexity Theory
+
+Time and space complexity
+Classes P, NP, NP-complete, and NP-hard
+The P vs NP problem
+Reducibility and NP-completeness
+5. Advanced Topics
+
+Formal proofs and mathematical logic
+Computability theory and undecidability
+Church-Turing thesis
+Computational complexity classes beyond NP
+6. Applications
+
+Compiler design and optimization
+Formal verification and program correctness
+Cryptography and security protocols
+Natural language processing and parsing
+7. Further Reading and Resources
+
+Recommended textbooks and academic papers
+Online courses and lectures
+Additional exercises and problems for practice
+8. Conclusion
+
+Recap of key concepts covered
+Encouragement to explore further and apply theory of computation principles
