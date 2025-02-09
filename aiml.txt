@@ -1,0 +1,27 @@
+Introduction to AIML
+What is AIML?
+
+AIML stands for Artificial Intelligence Markup Language.
+It's an XML-based markup language used for creating chatbots and conversational agents.
+Features of AIML:
+
+Pattern-Response Pairs: AIML uses pattern-response pairs to match user input and generate appropriate responses.
+Pattern Matching: AIML supports pattern matching using wildcard symbols and templates.
+XML-based: AIML syntax is based on XML, making it easy to read and write.
+AIML Syntax
+AIML Pattern:
+
+Patterns are used to match user input.
+Example: <pattern>Hello</pattern>
+AIML Template:
+
+Templates define the response to be generated.
+Example: <template>Hi there!</template>
+AIML Wildcards:
+
+AIML supports wildcards for pattern matching.
+Example: <pattern>What is *</pattern>
+AIML Templates with Variables:
+
+Variables can be used in templates to personalize responses.
+Example: <template>Hi, <get name>!</template>
